@@ -1,5 +1,0 @@
-com\stackroute\model\User.class
-com\stackroute\dao\UserDao.class
-com\stackroute\model\Authorities.class
-com\stackroute\dao\impl\UserDaoImpl.class
-com\stackroute\config\AppConfig.class
